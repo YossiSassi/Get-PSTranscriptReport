@@ -1,0 +1,9 @@
+{  
+    "PSTranscriptsParameters": {  
+    "_comment": "Start and End dates should be in format ddMMyyyy (e.g. 01092024 - September 1st 2024)",
+    "TranscriptFolder":       "C:\\PSTranscripts",   
+        "StartDateInput":      "01092024",   
+        "EndDateInput":    "14092024"  
+    }  
+} 
+
