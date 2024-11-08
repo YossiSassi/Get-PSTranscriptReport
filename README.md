@@ -6,7 +6,7 @@ Sample usage:
 .\Get-PSTranscriptReport.ps1
 </b><br>
 Runs the scripts without prior configuration, and promprs the user for required information.<br>
-Prompts in the CLI will include the Transcripts folder location (local or network, e.g. \\SRV\trans$), The Start Date to begin looking for transcripts, in format ddMMyyyy (e.g. 21092024 - September 21th 2024), or press <Enter> for today's date, and the End Date to begin looking for transcripts, in format ddMMyyyy, or press <Enter> for today's date.
+Prompts in the CLI will include the Transcripts folder location (local or network, e.g. \\SRV\trans$), The Start Date to begin looking for transcripts, in format ddMMyyyy (e.g. 21092024 - September 21th 2024), or press Enter for today's date, and the End Date to begin looking for transcripts, in format ddMMyyyy, or press Enter for today's date.
 <br><br><b>
 .\Get-PSTranscriptReport.ps1 -Jsonfile .\PSTranscriptParameters.json -OpenResultsInGridView
 </b><br>
